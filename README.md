@@ -35,7 +35,7 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 
 ## My Portfolio
 
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=dependabot"/>](https://anasszarioh.onrender.com/)
+<!--[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=dependabot"/>](https://anasszarioh.onrender.com/)-->
 
 
 
